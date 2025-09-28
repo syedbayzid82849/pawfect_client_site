@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+git add .
+git commit -m ""
+git push
